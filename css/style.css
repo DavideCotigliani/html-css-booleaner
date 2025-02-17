@@ -45,3 +45,19 @@ margin-bottom: 20px; }
 #partefinale{
     color: blue;
 }
+.lastimage1 {
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 35px;
+}
+.lastimage2 {
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    background-position: bottom;
+    color: white;
+    font-size: 35px;
+}

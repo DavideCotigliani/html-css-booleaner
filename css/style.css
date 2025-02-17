@@ -1,0 +1,9 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.header {background-color: rgba(35, 111, 197, 0.61);
+    background-image: url("../img/pattern.png");
+}

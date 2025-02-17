@@ -1,24 +1,46 @@
 *{
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
 header {background-color: rgba(35, 111, 197, 0.61);
     background-image: url("../img/pattern.png");
     background-size: 170px 120px;
+
 }
 .headerlogo{
     width: 200px;
+    margin-bottom: 10px;
 }
+.titoloprincipale {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 #Scrittura{
     color: blue;
+    margin-top: 25px;
+    margin-bottom: 20px;
 }
 
-Main {font-size: 20px ;}
+Main {font-size: 20px ;
+margin-top: 20px;
+margin-bottom: 20px; }
 
-.parte secondaria {
+.listanonordinata {
+    margin-left: 15px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.Tabella{
+    margin-bottom: 15px;
+}
+
+.partesecondaria {
     font-size: 15px;
+    margin-bottom: 15px;
 }
 #partefinale{
     color: blue;

@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
-.header {background-color: rgba(35, 111, 197, 0.61);
+header {background-color: rgba(35, 111, 197, 0.61);
     background-image: url("../img/pattern.png");
+    background-size: 170px 120px;
 }
+.headerlogo{
+    width: 200px;
+}
+#Scrittura{
+    color: blue;
+}
+
+Main {font-size: 20px ;}

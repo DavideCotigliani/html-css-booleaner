@@ -38,15 +38,26 @@ margin-bottom: 20px; }
     margin-bottom: 15px;
 }
 
-table{
-    text-align: left;
-    border-collapse: collapse;
+#table th{
+    background-color: #4ea1ff;
+    color: #fff;
 }
 
-.text{
-    width: 40px;
+#table tr:nth-child(odd){
+    background-color: #b1e6f2;
 }
 
+#table #column-1{
+    width: 25%;
+}
+
+#table #column-2{
+    width: 25%;
+}
+
+#table #column-3{
+    width: 50%;
+}
 
 
 .partesecondaria {

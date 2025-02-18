@@ -6,22 +6,26 @@
 
 header {background-color: rgba(35, 111, 197, 0.61);
     background-image: url("../img/pattern.png");
-    background-size: 170px 120px;
+    background-size: 15%;
 
 }
 .headerlogo{
-    width: 200px;
     margin-bottom: 10px;
+    width: 100px;
+    height: 50px;
 }
 .titoloprincipale {
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
-#Scrittura{
-    color: blue;
+.Scrittura{
+    color: rgb(255, 0, 221);
     margin-top: 25px;
     margin-bottom: 20px;
+}
+.Scrittura2 {
+    color: blue;
 }
 
 Main {font-size: 20px ;
@@ -34,10 +38,13 @@ margin-bottom: 20px; }
     margin-bottom: 15px;
 }
 
-.Tabella{
-    margin-bottom: 15px;
-    margin-right: 15px;
-    background-color:rgb(0, 255, 213);
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.text{
+    width: 40px;
 }
 
 
@@ -45,6 +52,7 @@ margin-bottom: 20px; }
 .partesecondaria {
     font-size: 15px;
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 #partefinale{
     color: blue;
